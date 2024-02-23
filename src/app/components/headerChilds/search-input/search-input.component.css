@@ -1,0 +1,24 @@
+
+.input_main_container{
+    width: 400px;
+    background-color: white;
+    height: 40px;
+    padding: 6px;
+    border: 1px solid #EC5E2A;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.center_input_main_container{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.center_input_main_container input{
+    width: 350px;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+}
